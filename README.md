@@ -46,3 +46,7 @@ This readme provides an overview of the full-stack project's functionality and c
 - Net equalization property cases
 - Child support over 18 years of age
 - Prenup matrimonial home
+
+## Notes
+
+Please note that a valid OpenAI key and a valid Metaphor Key is required for this project. Also note that the project works best for the Canadian Database. 
