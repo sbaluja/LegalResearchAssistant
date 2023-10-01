@@ -34,7 +34,7 @@ To run this project, you will need to:
 
 3. Start the server by running `node server.js` in the project directory.
 
-4. Open the web application in your browser by accessing the appropriate URL (e.g., http://localhost:3000).
+4. Open the web application in your browser by opening up index.html.
 
 5. Interact with the web application to perform searches and retrieve summaries.
 
